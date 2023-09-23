@@ -60,4 +60,9 @@ return 0;
 
 OUTPUT:
 
-Result: Thus, IPC using pipes mechanisms is illustrated using c program successfully
+![image](https://github.com/Harsayazheni/OS-EX.6-IMPLEMENTATION-OF-INTER-PROCESS-COMMUNICATION-USING-PIPE/assets/118708467/9c9a59a5-12e1-46bc-a71f-91a4bd16d5b0)
+
+
+Result: 
+
+Thus, IPC using pipes mechanisms is illustrated using c program successfully
